@@ -1,0 +1,611 @@
+﻿<link href="~/css/StyleSheet.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+
+
+
+<div class="sub-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8">
+                <ul class="info">
+                    <li><i class="fa fa-envelope"></i> info@company.com</li>
+                    <li><i class="fa fa-map"></i> Sunny Isles Beach, FL 33160</li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <ul class="social-links">
+                    <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <a href="index.html" class="logo">
+                        <h1>Villa</h1>
+                    </a>
+                    <ul class="nav">
+                        <li><a href="/Home" class="active">Home</a></li>
+                        <li><a href="/Properties">Properties</a></li>
+                        <li><a href="/PropertyDetails">Property Details</a></li>
+                        <li><a href="/ContactUs">Contact Us</a></li>
+                        <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
+                    </ul>
+                    <a class="menu-trigger">
+                        <span>Menu</span>
+                    </a>
+                </nav>  
+            </div>
+        </div>
+    </div>
+</header>
+<style>
+    .header-area.header-sticky {
+        position: sticky;
+        top: 0;     
+        background-color: white;
+        z-index: 100;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+</style>
+<div id="carouselExampleDark" class="carousel carousel-dark slide">
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <div class="carousel-inner">
+         <div class="carousel-item active" data-bs-interval="10000">
+            
+            <img src="~/css/VILLA1.jpg" alt="Sample Image" style="width: 100%; height: auto;">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-250%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center;">
+                <h6 style="background-color: white; display: inline-block; padding: 4px; margin: 0;">
+                    <b>
+                        <span style="color: black;">TORONTO,</span>
+                        <span style="color: orange;">CANADA</span>
+                    </b>
+                </h6>
+                <h2><b>HURRY!</b></h2>
+                <h2><b>GET THE BEST</b></h2>
+                <h2><b>VILLA FOR</b></h2>
+                <h2><b>YOU</b></h2>
+            </div>
+           
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+            <img src="~/css/VILLA2.jpg" alt="..." style="width: 100%; height: auto;">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-150%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center;">
+                <h6 style="background-color: white; display: inline-block; padding: 4px; margin: 0;">
+                    <b>
+                        <span style="color: black;">MELBOURNE,</span>
+                        <span style="color: orange;">AUSTRELIA</span>
+                    </b>
+                </h6>
+
+                <h2><b>BE QUICK!</b></h2>
+                <h1><b>GET THE BEST VILLA</b></h1>
+                <h2><b>IN TOWN</b></h2>             
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/css/VILLA3.jpg" alt="..." style="width: 100%; height: auto;">
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-200%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center;">
+                <h6 style="background-color: white; display: inline-block; padding: 4px; margin: 0;">
+                    <b>
+                        <span style="color: black;">MIAMI,</span>
+                        <span style="color: orange;">SOUTHFLORIDA</span>
+                    </b>
+                </h6>
+
+                <h2><b>ACT NOW!</b></h2>
+                <h2><b>GET THE HIGHEST</b></h2>
+                <h2><b>LEVEL PENTHOUSE</b></h2>
+
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+
+<div class="featured section" style="margin-top:30px; margin-bottom:70px;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="left-image position-relative" style="text-align: center;">
+                    <img src="~/css/featured.jpg" alt="" style="width: 100%; max-width: 320px; border-radius: 12px;">
+                    <a href="/PropertyDetails" style="position: absolute; bottom: -30px; left: 20px; text-decoration: none;">
+                        <div style="width: 114px;height: 112px;background-color: #f35525;border-radius: 50%;display: flex;align-items: center;justify-content: center;box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+                            <img src="~/css/featured-icon.png" alt="" style="width: 60px; height: 63px;">
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Center Content -->
+            <div class="col-lg-5">
+                <div class="section-heading">
+                    <h6 style="color: #f35525;">| Featured</h6>
+                    <h2><b>Best Appartment &amp;</b></h2>
+                    <h2><b> Sea View</b></h2>
+                </div>
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color:#f45d01">
+                                Best useful links ?
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Get <strong>the best villa</strong> website template in HTML CSS and Bootstrap for your business. TemplateMo provides you the
+                                <a href="https://www.google.com/search?q=best+free+css+templates" target="_blank">best free CSS templates</a> in the world.
+                                Please tell your friends about it.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                How does this work ?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod tempor incididunt ut labore consectetur
+                                <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Why is Villa Agency the best ?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                Dolor <strong>almesit amet</strong>, consectetur adipiscing elit, sed doesn't eiusmod tempor incididunt ut labore consectetur
+                                <code>adipiscing</code> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Info Box -->
+            <div class="col-lg-3">
+                <div class="info-table" style="background: #fff; padding: 50px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.15);">
+                    <ul class="list-unstyled">
+                        <li class="d-flex align-items-start mb-4">
+                            <img src="~/css/info-icon-01.png" alt="" style="max-width: 52px; margin-right: 10px;">
+                            <h4>250 m2<br><span style="font-size: 14px; color: gray;">Total Flat Space</span></h4>
+                        </li>
+                        <li class="d-flex align-items-start mb-4">
+                            <img src="~/css/info-icon-02.png" alt="" style="max-width: 52px; margin-right: 10px;">
+                            <h4>Contract<br><span style="font-size: 14px; color: gray;">Contract Ready</span></h4>
+                        </li>
+                        <li class="d-flex align-items-start mb-4">
+                            <img src="~/css/info-icon-03.png" alt="" style="max-width: 52px; margin-right: 10px;">
+                            <h4>Payment<br><span style="font-size: 14px; color: gray;">Payment Process</span></h4>
+                        </li>
+                        <li class="d-flex align-items-start">
+                            <img src="~/css/info-icon-04.png" alt="" style="max-width: 52px; margin-right: 10px;">
+                            <h4>Safety<br><span style="font-size: 14px; color: gray;">24/7 Under Control</span></h4>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+ <div style="position: relative; width: 100%; height: 500px; overflow: hidden;">
+    <!-- Background Blur Image -->
+    <img src="~/css/background-blur.jpg" alt="Background" style="width: 100%; height: 100%; object-fit: cover; filter: blur(4px);">
+
+    <!-- Center Text -->
+    <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);
+          color: white; font-size: 24px; font-weight: bold; text-align: center; text-shadow: 1px 1px 5px black;">
+        <h6><b><span style="color: red;">| Video View</span></b></h6>
+        <h2><b>Get Closer View &</b></h2>
+        <h2><b>Different Feeling</b></h2>
+    </div>
+
+
+    <!-- Video Frame and Play Button (Bottom Center) -->
+</div>
+<div style="margin-top: -13%; margin-right: -15%;">
+    <div style="position: relative;" class="container">
+        <!-- Video Thumbnail Image -->
+        <img src="~/css/video-frame.jpg" alt="Video Frame" style="width: 80%; display: block; border-radius: 10px;">
+
+        <!-- Play Button -->
+        <a href="https://youtube.com" target="_blank" style="position: absolute;top: 50%;left: 40%;transform: translate(-50%, -50%);background: rgba(243, 85, 37, 0.5);border-radius: 50%;padding: 15px;box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);display: flex;align-items: center;justify-content: center;">
+            <img src="~/css/play-button.png" alt="Play" style="width: 50px; height: 50px; filter: brightness(0) invert(1);">
+        </a>
+    </div>
+</div> 
+<style>
+    body {
+        overflow-x: hidden;
+    }
+</style>
+
+
+
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="counter-box">
+            <div class="circle-decor"></div>
+            <h2 class="count-number">34</h2>
+            <p class="count-label">Buildings<br>Finished Now</p>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="counter-box">
+            <div class="circle-decor"></div>
+            <h2 class="count-number">12</h2>
+            <p class="count-label">Years<br>Experience</p>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="counter-box">
+            <div class="circle-decor"></div>
+            <h2 class="count-number">24</h2>
+            <p class="count-label">Awwards<br>Won 2023</p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="section-heading">
+                <h6 style="color:#f35525">| Best Deal</h6>
+                <h2><b>Find Your Best Deal</b></h2>
+                <h2><b>Right Now!</b></h2>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="tabs-content">
+                <div class="row">
+                    <div class="row align-items-start">
+                        <!-- LEFT SIDE: Tab content -->
+                        <div class="col-lg-9">
+                            <div class="tab-content" id="myTabContent">
+                                <!-- Tab panes like #appartment, #villa, #penthouse here -->
+                            </div>
+                        </div>
+
+                        <!-- RIGHT SIDE: Horizontal tab navigation -->
+                        <div class="col-lg-3 d-flex justify-content-end">
+                            <div class="nav-wrapper">
+                                <ul class="nav nav-tabs flex-nowrap" role="tablist" style="gap: 5px; flex-wrap: nowrap;">
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link active" id="appartment-tab" data-bs-toggle="tab" data-bs-target="#appartment" type="button" role="tab" aria-controls="appartment" aria-selected="true" style="white-space: nowrap; padding: 5px 10px;">Appartment</button>
+                                    </li>
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link" id="villa-tab" data-bs-toggle="tab" data-bs-target="#villa" type="button" role="tab" aria-controls="villa" aria-selected="false" style="white-space: nowrap; padding: 5px 10px;">Villa House</button>
+                                    </li>
+                                    <li class="nav-item" role="presentation">
+                                        <button class="nav-link" id="penthouse-tab" data-bs-toggle="tab" data-bs-target="#penthouse" type="button" role="tab" aria-controls="penthouse" aria-selected="false" style="white-space: nowrap; padding: 5px 10px;">Penthouse</button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="appartment" role="tabpanel" aria-labelledby="appartment-tab">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="info-table">
+                                        <ul>
+                                            <li>Total Flat Space <span>185 m2</span></li>
+                                            <li>Floor number <span>26th</span></li>
+                                            <li>Number of rooms <span>4</span></li>
+                                            <li>Parking Available <span>Yes</span></li>
+                                            <li>Payment Process <span>Bank</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <img src="~/css/deal-01.jpg" alt="">
+                                </div>
+                                <div class="col-lg-3">
+                                    <h4>Extra Info About Property</h4>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.
+                                        <br><br>When you need free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Portfolio, TemplateMo One Page Layouts, etc.
+                                    </p>
+                                    <div class="icon-button">
+                                        <a href="/PropertyDetails"><i class="fa fa-calendar"></i> Schedule a visit</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="villa" role="tabpanel" aria-labelledby="villa-tab">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="info-table">
+                                        <ul>
+                                            <li>Total Flat Space <span>250 m2</span></li>
+                                            <li>Floor number <span>26th</span></li>
+                                            <li>Number of rooms <span>5</span></li>
+                                            <li>Parking Available <span>Yes</span></li>
+                                            <li>Payment Process <span>Bank</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <img src="~/css/deal-02.jpg" alt="">
+                                </div>
+                                <div class="col-lg-3">
+                                    <h4>Detail Info About Villa</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse. <br><br>Swag fanny pack lyft blog twee. JOMO ethical copper mug, succulents typewriter shaman DIY kitsch twee taiyaki fixie hella venmo after messenger poutine next level humblebrag swag franzen.</p>
+                                    <div class="icon-button">
+                                        <a href="property-details.html"><i class="fa fa-calendar"></i> Schedule a visit</a>
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="penthouse" role="tabpanel" aria-labelledby="penthouse-tab">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="info-table">
+                                        <ul>
+                                            <li>Total Flat Space <span>320 m2</span></li>
+                                            <li>Floor number <span>34th</span></li>
+                                            <li>Number of rooms <span>6</span></li>
+                                            <li>Parking Available <span>Yes</span></li>
+                                            <li>Payment Process <span>Bank</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <img src="~/css/deal-03.jpg" alt="">
+                                </div>
+                                <div class="col-lg-3">
+                                    <h4>Extra Info About Penthouse</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse. <br><br>Swag fanny pack lyft blog twee. JOMO ethical copper mug, succulents typewriter shaman DIY kitsch twee taiyaki fixie hella venmo after messenger poutine next level humblebrag swag franzen.</p>
+                                    <div class="icon-button">
+                                        <a href="/PropertyDetails"><i class="fa fa-calendar"></i> Schedule a visit</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<br />  
+
+<div class="properties section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 offset-lg-4">
+                <div class="section-heading text-center">
+                    <h6>| Properties</h6>
+                    <h2>We Provide The Best Property You Like</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">   
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-01.jpg" alt=""></a>
+                    <span class="category">Luxury Villa</span>
+                    <h6>$2.264.000</h6>
+                    <h4><a href="property-details.html">18 New Street Miami, OR 97219</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>8</span></li>
+                        <li>Bathrooms: <span>8</span></li>
+                        <li>Area: <span>545m2</span></li>
+                        <li>Floor: <span>3</span></li>
+                        <li>Parking: <span>6 spots</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-02.jpg" alt=""></a>
+                    <span class="category">Luxury Villa</span>
+                    <h6>$1.180.000</h6>
+                    <h4><a href="property-details.html">54 Mid Street Florida, OR 27001</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>6</span></li>
+                        <li>Bathrooms: <span>5</span></li>
+                        <li>Area: <span>450m2</span></li>
+                        <li>Floor: <span>3</span></li>
+                        <li>Parking: <span>8 spots</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-03.jpg" alt=""></a>
+                    <span class="category">Luxury Villa</span>
+                    <h6>$1.460.000</h6>
+                    <h4><a href="property-details.html">26 Old Street Miami, OR 38540</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>5</span></li>
+                        <li>Bathrooms: <span>4</span></li>
+                        <li>Area: <span>225m2</span></li>
+                        <li>Floor: <span>3</span></li>
+                        <li>Parking: <span>10 spots</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-04.jpg" alt=""></a>
+                    <span class="category">Apartment</span>
+                    <h6>$584.500</h6>
+                    <h4><a href="property-details.html">12 New Street Miami, OR 12650</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>4</span></li>
+                        <li>Bathrooms: <span>3</span></li>
+                        <li>Area: <span>125m2</span></li>
+                        <li>Floor: <span>25th</span></li>
+                        <li>Parking: <span>2 cars</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-05.jpg" alt=""></a>
+                    <span class="category">Penthouse</span>
+                    <h6>$925.600</h6>
+                    <h4><a href="property-details.html">34 Beach Street Miami, OR 42680</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>4</span></li>
+                        <li>Bathrooms: <span>4</span></li>
+                        <li>Area: <span>180m2</span></li>
+                        <li>Floor: <span>38th</span></li>
+                        <li>Parking: <span>2 cars</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="item">
+                    <a href="property-details.html"><img src="~/css/property-06.jpg" alt=""></a>
+                    <span class="category">Modern Condo</span>
+                    <h6>$450.000</h6>
+                    <h4><a href="property-details.html">22 New Street Portland, OR 16540</a></h4>
+                    <ul>
+                        <li>Bedrooms: <span>3</span></li>
+                        <li>Bathrooms: <span>2</span></li>
+                        <li>Area: <span>165m2</span></li>
+                        <li>Floor: <span>26th</span></li>
+                        <li>Parking: <span>3 cars</span></li>
+                    </ul>
+                    <div class="main-button">
+                        <a href="/PropertyDetails.">Schedule a visit</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    
+</div>
+
+<div style="position: relative; width: 100%; height: 700px; overflow: hidden;">
+    <!-- Background Blur Image -->
+    <img src="~/css/contact-bg.jpg" alt="Background" style="width: 100%; height: 100%; object-fit: cover; filter: blur(4px);">
+
+    <div style="position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%);
+        color: white; font-size: 24px; font-weight: bold; text-align: center; text-shadow: 1px 1px 5px black; z-index: 2;">
+        <h6><b><span style="color: red;">| Contact Us</span></b></h6>
+        <h2><b>Get In Touch With</b></h2>
+        <h2><b>Our Agents</b></h2>
+    </div>
+
+   
+</div>
+<div class="d-flex container" style="margin-top: -400px;">
+    <div class="col-lg-7 px-2 d-flex" style="flex-direction: column; justify-content: space-between;">
+        <div id="map-box"  style="width: 100%;height: 500px;background: #fff;border-radius: 20px;overflow: hidden;box-shadow: 0px 0px 25px rgba(0,0,0,0.3);z-index: 3;">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12469.776493332698!2d-80.14036379941481!3d25.907788681148624!2m3!1f357.26927939317244!2f20.870722720054623!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x88d9add4b4ac788f%3A0xe77469d09480fcdb!2sSunny%20Isles%20Beach!5e1!3m2!1sen!2sth!4v1642869952544!5m2!1sen!2sth" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="row justify-content-center">
+            <!-- Phone Card -->            
+            <div class="col-md-5 mx-2 mb-5 mt-5" style="z-index: 99999;border: 1px solid White; border-radius: 12px; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+                <div class="d-flex align-items-center p-3">
+                    <img src="~/css/email-icon.png" alt="Email Icon" style="width: 40px; margin-right: 15px;">
+                    <div>
+                        <h6 style="margin: 0; font-weight: 700;">010-020-0340</h6>
+                        <span style="color: gray;">Phone Number</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Email Card -->
+            <div class="col-md-5 mx-2 mb-5 mt-5" style="z-index: 99999;border: 1px solid White; border-radius: 12px; background: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+                <div class="d-flex align-items-center p-3">
+                    <img src="~/css/email-icon.png" alt="Email Icon" style="width: 40px; margin-right: 15px;">
+                    <div>
+                        <h6 style="margin: 0; font-weight: 700;">info@villa.co</h6>
+                        <span style="color: gray;">Business Email</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-5 px-2" style="z-index: 999;">
+        <div id="contact-box" style="width: 80%; background: rgba(255, 255, 255, 0.9); border-radius: 15px; padding: 40px;box-shadow: 0px 0px 25px rgba(0,0,0,0.3); z-index: 33333;">
+
+            <form id="contact-form" action="/submit-form" method="post" style="display: flex; flex-direction: column; gap: 15px;">
+                <label for="name">Full Name</label>
+                <input type="text" name="name" id="name" placeholder="Your Name..." required style="padding: 10px; border-radius: 5px;">
+
+                <label for="email">Email Address</label>
+                <input type="email" name="email" id="email" placeholder="Your E-mail..." required style="padding: 10px; border-radius: 5px;">
+
+                <label for="subject">Subject</label>
+                <input type="text" name="subject" id="subject" placeholder="Subject..." style="padding: 10px; border-radius: 5px;">
+
+                <label for="message">Message</label>
+                <textarea name="message" id="message" placeholder="Your Message..." required style="padding: 10px; height: 120px; border-radius: 5px;"></textarea>
+
+                <button type="submit" id="form-submit" style="padding: 12px; border: none; background-color: black; color: white; border-radius: 20px;">Send Message</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<footer class="footer-no-gap">
+    <div class="container-fluid">
+        <div class="row justify-content-center" style="background-color: #1e1e1e; min-height: 100px; color: white; align-items: center;">
+            <div class="col text-center">
+                <p style="color:white;">
+                    Copyright © 2048 Villa Agency Co., Ltd. All rights reserved.
+
+                    Design: <a rel="nofollow" href="https://templatemo.com" target="_blank" style="color: #fff; text-decoration: underline;">TemplateMo</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+

@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\envatomarket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\envatomarket.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\about.jpg",
+      "PackagePath": "staticwebassets\\css\\about.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\belimo-2.png",
+      "PackagePath": "staticwebassets\\css\\belimo-2.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\citrus-5.png",
+      "PackagePath": "staticwebassets\\css\\citrus-5.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\cta-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\features-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\features-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\grabyo-4.png",
+      "PackagePath": "staticwebassets\\css\\grabyo-4.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\lifegroups-3.png",
+      "PackagePath": "staticwebassets\\css\\lifegroups-3.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\lilly-8.png",
+      "PackagePath": "staticwebassets\\css\\lilly-8.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\masonry-portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\css\\masonry-portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\myob-1.png",
+      "PackagePath": "staticwebassets\\css\\myob-1.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\oldendroff-7.png",
+      "PackagePath": "staticwebassets\\css\\oldendroff-7.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\selective-focus-diverse-multiethnic-businesspeople-overworking-late-night.jpg",
+      "PackagePath": "staticwebassets\\css\\selective-focus-diverse-multiethnic-businesspeople-overworking-late-night.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\stats-img.jpg",
+      "PackagePath": "staticwebassets\\css\\stats-img.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\team-1.jpg",
+      "PackagePath": "staticwebassets\\css\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\team-2.jpg",
+      "PackagePath": "staticwebassets\\css\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\team-3.jpg",
+      "PackagePath": "staticwebassets\\css\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\team-4.jpg",
+      "PackagePath": "staticwebassets\\css\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\testimonials-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\testimonials-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\css\\trustly-6.png",
+      "PackagePath": "staticwebassets\\css\\trustly-6.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\envatomarket\\envatomarket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.envatomarket.props",
+      "PackagePath": "build\\envatomarket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.envatomarket.props",
+      "PackagePath": "buildMultiTargeting\\envatomarket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.envatomarket.props",
+      "PackagePath": "buildTransitive\\envatomarket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.envatomarket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

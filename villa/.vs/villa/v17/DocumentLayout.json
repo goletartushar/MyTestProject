@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jaygivemetemplet\\villa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8CAD22-DBA1-4785-B2FF-8792C11B6B3E}|villa\\villa.csproj|d:\\jaygivemetemplet\\villa\\villa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F8CAD22-DBA1-4785-B2FF-8792C11B6B3E}|villa\\villa.csproj|solutionrelative:villa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8CAD22-DBA1-4785-B2FF-8792C11B6B3E}|villa\\villa.csproj|d:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F8CAD22-DBA1-4785-B2FF-8792C11B6B3E}|villa\\villa.csproj|solutionrelative:villa\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "villa\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "villa\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T09:28:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\jaygivemetemplet\\villa\\villa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "villa\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\jaygivemetemplet\\villa\\villa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "villa\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T09:25:27.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

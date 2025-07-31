@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\villa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\villa.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\VILLA1.jpg",
+      "PackagePath": "staticwebassets\\css\\VILLA1.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\VILLA2.jpg",
+      "PackagePath": "staticwebassets\\css\\VILLA2.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\VILLA3.jpg",
+      "PackagePath": "staticwebassets\\css\\VILLA3.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\background-blur.jpg",
+      "PackagePath": "staticwebassets\\css\\background-blur.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\contact-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\deal-01.jpg",
+      "PackagePath": "staticwebassets\\css\\deal-01.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\deal-02.jpg",
+      "PackagePath": "staticwebassets\\css\\deal-02.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\deal-03.jpg",
+      "PackagePath": "staticwebassets\\css\\deal-03.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\email-icon.png",
+      "PackagePath": "staticwebassets\\css\\email-icon.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\featured-icon.png",
+      "PackagePath": "staticwebassets\\css\\featured-icon.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\featured.jpg",
+      "PackagePath": "staticwebassets\\css\\featured.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\info-icon-01.png",
+      "PackagePath": "staticwebassets\\css\\info-icon-01.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\info-icon-02.png",
+      "PackagePath": "staticwebassets\\css\\info-icon-02.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\info-icon-03.png",
+      "PackagePath": "staticwebassets\\css\\info-icon-03.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\info-icon-04.png",
+      "PackagePath": "staticwebassets\\css\\info-icon-04.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\phone-icon.png",
+      "PackagePath": "staticwebassets\\css\\phone-icon.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\play-button.png",
+      "PackagePath": "staticwebassets\\css\\play-button.png"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-01.jpg",
+      "PackagePath": "staticwebassets\\css\\property-01.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-02.jpg",
+      "PackagePath": "staticwebassets\\css\\property-02.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-03.jpg",
+      "PackagePath": "staticwebassets\\css\\property-03.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-04.jpg",
+      "PackagePath": "staticwebassets\\css\\property-04.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-05.jpg",
+      "PackagePath": "staticwebassets\\css\\property-05.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\property-06.jpg",
+      "PackagePath": "staticwebassets\\css\\property-06.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\propertydetails1-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\propertydetails1-bg.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\single-property.jpg",
+      "PackagePath": "staticwebassets\\css\\single-property.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\video-frame.jpg",
+      "PackagePath": "staticwebassets\\css\\video-frame.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\css\\videoplay.jpg",
+      "PackagePath": "staticwebassets\\css\\videoplay.jpg"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\jaygivemetemplet\\villa\\villa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.villa.props",
+      "PackagePath": "build\\villa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.villa.props",
+      "PackagePath": "buildMultiTargeting\\villa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.villa.props",
+      "PackagePath": "buildTransitive\\villa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.villa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
